@@ -1,0 +1,296 @@
+/* Pagina */
+
+.main-container{
+    height: 100%;
+    background: #1D074E;
+}
+
+/* menu */
+
+#menu{
+    width: 100%;
+    height: 180px;
+    background: rgba(46, 20, 87, 0.47);
+    border: 3px solid rgba(148, 148, 148, 0.52);
+    box-sizing: border-box;
+    border-radius: 0px 0px 50px 50px;
+}
+
+/* texto de navegacion*/
+
+#nav-txt{
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 30px;
+    line-height: 35px;
+    color: #E5E5E5;
+    border: none;
+    text-decoration: none;
+}
+
+/* Section main*/
+
+#main{
+    margin-top: 70px;
+    margin-bottom: 35px;
+}
+/* foto principal 1 */
+
+#phmain{
+    height: 600px;
+    filter: blur(4px);
+    border-radius: 30px;
+}
+
+/* foto principal 2 */
+
+#ph2{
+    width: 181px;
+    height: 200px;
+    border-radius: 150px;
+}
+
+/* Diana Moreno */
+
+.txtname{
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 48px;
+    color: #EFEFEF;
+}
+/* Web Developer*/
+
+.txtdev{
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 24px;
+    color: #9B9B9B;
+}
+
+/* resumen */
+
+.resumen{
+    width: 594px;
+    height: 280px;
+    background: linear-gradient(180deg, #516DFF 17.13%, rgba(229, 66, 255, 0.79) 117.13%);
+    box-sizing: border-box;
+    border-radius: 20px;
+    padding: 10px;
+}
+
+/* texto de resumen*/
+
+.txtresum{
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 26px;
+    color: #EFEFEF;
+}
+
+/* habilidades */
+
+#skills{
+    margin-top: 70px;
+    width: 1173px;
+    height: 850px;
+    background: rgba(148, 148, 148, 0.42);
+    border: 3px solid rgba(46, 20, 87, 0.47);
+    box-sizing: border-box;
+    border-radius: 20px;
+    padding: 20px;
+}
+/* Conoce mis habilidades */
+
+#txt1{
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 36px;
+    color: #EFEFEF;
+}
+
+/* texto de introduccion*/
+
+.txtintro{
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 28px;
+    color: #EFEFEF;
+}
+
+/* Desempeño */
+
+.desempeño{
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 30px;
+    color: #EFEFEF;
+}
+
+/*Contenedores de habilidades*/
+
+.skills_data{
+    margin: 10%;
+}
+/* textos en barras de nivel */
+
+.txtbr{
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 30px;
+    line-height: 35px;
+    padding-left: 100px;
+    color: #E5E5E5;
+}
+
+/* Contenedor de responsive */
+#responsive{
+    margin-top: 80px;
+    margin-bottom: 80px;
+}
+/* Responsive design */
+
+.resp{
+    width: 386px;
+    height: 64px;
+    left: 117px;
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 45px;
+    line-height: 53px;
+    color: #EFEFEF;
+}
+/* Texto de responsive */
+
+.txtresp{
+    width: 376px;
+    height: 177px;
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 35px;
+    line-height: 41px;
+    color: #EFEFEF;
+}
+
+/* imagen de responsive 1 */
+
+.imgresp1{
+    width: 117.36px;
+    height: 220px;
+    left: 634.65px;
+    top: 2586.27px;
+    transform: matrix(1, 0, 0, 1, 0, 0);
+}
+
+/* imagen de responsive 2 */
+
+.imgresp2{
+    width: 379px;
+    height: 290px;
+    left: 795px;
+    top: 2488px;
+}
+
+/* pie de pagina */
+
+#footer{
+    width: 100%;
+    height: 180px;
+    background: rgba(46, 20, 87, 0.47);
+    border: 3px solid rgba(148, 148, 148, 0.52);
+    box-sizing: border-box;
+    border-radius: 50px 50px 0px 0px;
+    padding: 10px;
+}
+
+/*------------------- Pagina Diseño -------------------*/
+
+/* Seccion de diseño */
+
+#desing{
+    margin-top: 30px;
+    margin-bottom: 70px;
+}
+/* Bienvenido*/
+
+#bienvenido{
+    margin-bottom: 60px;
+    width: 951px;
+    height: 350px;
+    background: linear-gradient(180deg, #516DFF 17.13%, rgba(229, 66, 255, 0.79) 117.13%);
+    box-sizing: border-box;
+    border-radius: 20px;
+    padding: 60px;
+}
+
+
+/* Bienvenid@! */
+
+.txtbienv{
+    width: 520px;
+    height: 60px;
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 60px;
+    line-height: 70px;
+    color: #FFFFFF;
+}
+
+/* maki:art-gallery */
+
+.lgart{
+    width: 200px;
+    height: 200px;
+}
+
+
+/* A mi galeria de mockups */
+
+.txtwc1{
+    width: 459px;
+    height: 44px;
+    font-family: Roboto Mono;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 32px;
+    line-height: 42px;
+    color: #F0F0F0;
+}
+
+/* aqui podras apreciar mis diseños elaborados con figma */
+
+.txtwc2{
+    width: 523px;
+    height: 93px;
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 38px;
+    line-height: 45px;
+    color: #F0F0F0;
+}
+
+/* Mock up */
+
+.ds{
+    width: 422px;
+    height: 310px;
+    border-radius: 20px;
+    margin: 50px;
+}
+
+.ds img{
+    width: 422px;
+    height: 310px;
+    border-radius: 20px;
+}
